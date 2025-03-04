@@ -26,4 +26,6 @@
 
 # Eslint and Prettier setup
 17. Follow the link: https://dev.to/shafayat/-express-typescript-eslint-prettiersetup-5fhg?fbclid=IwY2xjawG3-95leHRuA2FlbQIxMQABHcaCA3hRarSuvJo0VQkPa7--DMB9qHlrRQNpdFGcewcxzc16NjJu9Rw7Ug_aem_C_X0sfrem1xdlZy1yCMvbQ
+
+# Reich UMS requirement analysis (doc): https://docs.google.com/document/d/1hjtDAr2G80-GNt_AZol0Q38CA_CxcB3fTompcrkgOl8/edit?usp=sharing
     
